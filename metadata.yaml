@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6260
     wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24814#The-Forest-Exiles--The-Perils-of-a-Peruvian-Family-in-the-Wilds-of-the-Amazon
 gutenberg_issued: '2008-03-12'
 gutenberg_type: Text
 identifiers:
