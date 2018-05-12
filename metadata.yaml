@@ -1,0 +1,41 @@
+_repo: The-Forest-Exiles--The-Perils-of-a-Peruvian-Family-in-the-Wilds-of-the-Amazon_24814
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Mayne-Reid, Captain
+    - Reid, Thomas Mayne
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_issued: '2008-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Amazon River -- Fiction'
+- !lcsh 'Peru -- Fiction'
+- !lcsh 'Adventure stories'
+title: 'The Forest Exiles: The Perils of a Peruvian Family in the Wilds of the Amazon'
+url: http://www.gutenberg.org/ebooks/24814
